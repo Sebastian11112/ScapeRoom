@@ -1,0 +1,14 @@
+{
+    "name": "escape-room-calidad-software",
+    "version": "1.0.0",
+    "description": "Escape Room interactivo sobre calidad del software, métricas de calidad y el uso de la IA.",
+    "main": "index.html",
+    "scripts": {
+      "start": "live-server"
+    },
+    "author": "Sebastian Castro Sinisterra",
+    "license": "ISC",
+    "devDependencies": {
+      "live-server": "^1.2.1"
+    }
+  }
